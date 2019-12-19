@@ -1,0 +1,133 @@
+
+.menu li {
+    display: inline;
+    text-decoration: none;
+    margin-left: 50px;
+    float: right;
+    font-family: monospace;
+    margin-top: 40px;
+    font-size:12px;
+}
+
+.label {
+    width: 100px;
+    text-decoration: none;
+    float:left;
+    font-family: monospace;
+    font-size: 25px;
+    margin-top: 27px;
+}
+header {
+    width: 1060px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+a {
+    text-decoration: none;
+}
+a:active {
+    color: black
+}
+a:visited {
+    color: black;
+}
+
+section {
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.grey {
+    font-family: monospace;
+    color: gray;
+}
+
+h2 {
+    color: rgb(109, 109, 109);
+    font-family: sans-serif;
+}
+blockquote {
+    font-style: italic;
+    color: gray;
+}
+p {
+    color: gray;
+}
+
+.bold {
+    font-weight: 600;
+    color: black;
+}
+
+.number2 {
+    background-color:rgb(247, 247, 247);
+    width:1060px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.number3 {
+    width: 900px;
+     margin-left: auto;
+    margin-right: auto;
+
+}
+.left {
+    
+    display: inline-block;
+   margin-left: 0;
+}
+.center {
+    display: inline-block;
+    margin-left: 35px;
+}
+
+.right {
+    display: inline-block;
+    margin-left: 35px;
+}
+.signature {
+    color: gray;
+    font-family: sans-serif;
+}
+
+.icons {
+    width: 10px;
+    height: 10px;
+}
+.contacts {
+    text-align: right;
+}
+
+footer {
+    width: 1060px;
+    margin-left: auto;
+    margin-right: auto;
+   background-color:rgb(247, 247, 247);
+    
+}
+
+li {
+      display: inline;
+    text-decoration: none;
+    margin-left: 30px;
+    float: left;
+    font-family: monospace;
+    margin-top: 40px;
+    font-size:12px;  
+    margin-bottom: 50px;
+    
+}
+.follow {
+    text-align: right;
+    float: right;
+    display: inline-block;
+
+}
+.menu_foot {
+    display: inline-block;
+}
+
